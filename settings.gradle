@@ -1,0 +1,3 @@
+include ':uniloginsdk'
+include ':app'
+rootProject.name = "demo geetest"
